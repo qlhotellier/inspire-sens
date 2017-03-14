@@ -37,6 +37,21 @@ body {
   background: #7ee383;
 }
 
+.mt40 {
+  margin-top: 40px !important;
+}
+
+.pt0i {
+  padding-top: 0px !important;
+}
+
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+
 a {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
