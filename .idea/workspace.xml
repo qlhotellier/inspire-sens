@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16366441-5097-4496-894b-2a9834e84afb" name="Default" comment="Remplissage des onglets coaching ateliers et formations">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entreprises.html" />
+    <list default="true" id="16366441-5097-4496-894b-2a9834e84afb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/particuliers.html" afterPath="$PROJECT_DIR$/particuliers.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -404,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489531238636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remplissage des onglets coaching ateliers et formations">
+      <created>1489570006681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489570006681</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
