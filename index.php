@@ -59,7 +59,7 @@
 			
 			<!-- Logo -->
 			<div id="fh5co-logo" class="text-center">
-				<a href="index.html">
+				<a href="index.php">
 					<img src="images/logo.png" alt="Image">
 				</a>
 
@@ -74,19 +74,19 @@
 			<nav id="fh5co-nav" role="navigation">
 				<ul>
 					<li class="active">
-						<a href="index.html">Accueil</a>
+						<a href="index.php">Accueil</a>
 					</li>
 					<li>
-						<a href="qui-suis-je.html">Qui suis-je ?</a>
+						<a href="qui-suis-je.php">Qui suis-je ?</a>
 					</li>
 					<li>
-						<a href="particuliers.html">Particuliers</a>
+						<a href="particuliers.php">Particuliers</a>
 					</li>
 					<li>
-						<a href="entreprises.html">Entreprises</a>
+						<a href="entreprises.php">Entreprises</a>
 					</li>
 					<li>
-						<a href="contact.html">Contact</a>
+						<a href="contact.php">Contact</a>
 					</li>
 				</ul>
 			</nav>
@@ -148,96 +148,9 @@
 				</div>
 				<!--Fin Phrase d'introduction-->
 				<div class="fh5co-spacer fh5co-spacer-lg"></div>
+
 				
-				<!-- Features -->
-				<div class="fh5co-features">
-					<div class="container">
-						<div class="fh5co-section-title text-center">
-							<h2 class="fh5co-title">Features</h2>
-						</div>
-						<div class="fh5co-spacer fh5co-spacer-sm"></div>
-						<div class="row">
-
-							<div class="col-md-4 col-sm-6 fh5co-feature text-center">
-								<span class="fh5co-feature-icon">
-									<i class="icon-command"></i>
-								</span>
-								<h3 class="fh5co-feature-title">Simplicity</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores saepe, sunt eos necessitatibus consectetur.</p>
-							</div>
-							<div class="col-md-4 col-sm-6 fh5co-feature text-center">
-								<span class="fh5co-feature-icon">
-									<i class="icon-eye2"></i>
-								</span>
-								<h3 class="fh5co-feature-title">Retina Ready</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores saepe, sunt eos necessitatibus consectetur.</p>
-							</div>
-
-							<div class="col-md-4 col-sm-6 fh5co-feature text-center">
-								<span class="fh5co-feature-icon">
-									<i class="icon-monitor"></i>
-								</span>
-								<h3 class="fh5co-feature-title">Fully Responsive</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores saepe, sunt eos necessitatibus consectetur.</p>
-							</div>
-
-							<div class="col-md-4 col-sm-6 fh5co-feature text-center">
-								<span class="fh5co-feature-icon">
-									<i class="icon-cog2"></i>
-								</span>
-								<h3 class="fh5co-feature-title">Intuitive</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores saepe, sunt eos necessitatibus consectetur.</p>
-							</div>
-
-							<div class="col-md-4 col-sm-6 fh5co-feature text-center">
-								<span class="fh5co-feature-icon">
-									<i class="icon-paragraph"></i>
-								</span>
-								<h3 class="fh5co-feature-title">Typography</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores saepe, sunt eos necessitatibus consectetur.</p>
-							</div>
-							<div class="col-md-4 col-sm-6 fh5co-feature text-center">
-								<span class="fh5co-feature-icon">
-									<i class="icon-box2"></i>
-								</span>
-								<h3 class="fh5co-feature-title">Out of the Box</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores saepe, sunt eos necessitatibus consectetur.</p>
-							</div>
-
-						</div>
-					</div>
-				</div>
-				<!-- Features -->
-
-				<div class="fh5co-spacer fh5co-spacer-lg"></div>
-				
-				<!-- Section Half -->
-				<div class="fh5co-half">
-					<div class="fh5co-half-img fh5co-50" style="background-image: url(images/slide_2.jpg)"></div>
-					<div class="fh5co-half-text fh5co-50 fh5co-right">
-						<div class="fh5co-text">
-							
-							<div class="container-fluid">
-								<div class="row">
-									<div class="col-md-9 col-md-push-1 col-sm-9 col-sm-push-1">
-										<div class="fh5co-section-title text-left">
-											<h2 class="fh5co-title">Clean &amp; Minimal Design</h2>
-										</div>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa doloribus molestias, explicabo itaque, quos consequatur quam, tempore enim voluptatum nulla quas iusto voluptate quae modi commodi maiores voluptatibus perspiciatis aut.</p>		
-										<div class="fh5co-spacer fh5co-spacer-xxs"></div>
-										<p><a href="#" class="btn btn-primary btn-md fh5co-btn-other-option">Get Started</a> <span class="fh5co-other-option"><span class="fh5co-or text-muted">or</span> <a href="#" class="btn-link">Learn More</a></span></p>
-									</div>
-								</div>
-							</div>
-							
-						</div>
-					</div>
-				</div>
-				<!-- Section Half -->
-
-				<div class="fh5co-spacer fh5co-spacer-lg"></div>
-				
-				<!-- Testimonial -->
+				<!-- Testimonial >
 				<div class="container">
 						<div class="fh5co-section-title text-center">
 							<h2 class="fh5co-title">Our Clients Say</h2>
@@ -259,81 +172,7 @@
 
 				<div class="fh5co-spacer fh5co-spacer-lg"></div>
 
-				<!-- Press -->
-				<div class="fh5co-press">
-					<div class="container">
 
-						<div class="fh5co-section-title text-center">
-							<h2 class="fh5co-title">Press</h2>
-						</div>
-						<div class="fh5co-spacer fh5co-spacer-sm"></div>
-						<div class="row">
-
-							<div class="col-md-6">
-								<!-- Press Item -->
-								<div class="fh5co-press-item">
-									<div class="fh5co-press-img" style="background-image: url(images/slide_2.jpg)">
-									</div>
-									<div class="fh5co-press-text">
-										<h3 class="h2 fh5co-press-title">Simplicity <span class="fh5co-border"></span></h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-									</div>
-								</div>
-								<!-- Press Item -->
-							</div>
-
-							<div class="col-md-6">
-								<!-- Press Item -->
-								<div class="fh5co-press-item">
-									<div class="fh5co-press-img" style="background-image: url(images/slide_1.jpg)">
-									</div>
-									<div class="fh5co-press-text">
-										<h3 class="h2 fh5co-press-title">Versatile <span class="fh5co-border"></span></h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-									</div>
-								</div>
-								<!-- Press Item -->
-							</div>
-							
-							<div class="col-md-6">
-								<!-- Press Item -->
-								<div class="fh5co-press-item">
-									<div class="fh5co-press-img" style="background-image: url(images/slide_3.jpg);">
-									</div>
-									<div class="fh5co-press-text">
-										<h3 class="h2 fh5co-press-title">Aesthetic <span class="fh5co-border"></span></h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-									</div>
-								</div>
-								<!-- Press Item -->
-							</div>
-
-							<div class="col-md-6">
-								<!-- Press Item -->
-								<div class="fh5co-press-item">
-									<div class="fh5co-press-img" style="background-image: url(images/slide_4.jpg);">
-									</div>
-									<div class="fh5co-press-text">
-										<h3 class="h2 fh5co-press-title">Creative <span class="fh5co-border"></span></h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis eius quos similique suscipit dolorem cumque vitae qui molestias illo accusantium...</p>
-									</div>
-								</div>
-								<!-- Press Item -->
-							</div>
-
-						</div>
-						<div class="fh5co-spacer fh5co-spacer-xs"></div>
-						<div class="row">
-							<div class="col-md-6 col-md-offset-3">
-								<a href="#" class="btn btn-outline btn-md btn-block">View All Press Releases</a>
-							</div>
-						</div>
-						
-
-
-					</div>
-				</div>
-				<!-- Press -->
 				
 
 		</main>
