@@ -68,7 +68,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 			
 			<!-- Logo -->
 			<div id="fh5co-logo" class="text-center">
-				<a href="index.html">
+				<a href="index.php">
 					<img src="images/logo.png" alt="Image">
 				</a>
 
@@ -83,19 +83,19 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 				<nav id="fh5co-nav" role="navigation">
 					<ul>
 						<li>
-							<a href="index.html">Accueil</a>
+							<a href="index.php">Accueil</a>
 						</li>
 						<li>
-							<a href="qui-suis-je.html">Qui suis-je ?</a>
+							<a href="qui-suis-je.php">Qui suis-je ?</a>
 						</li>
 						<li>
-							<a href="particuliers.html">Particuliers</a>
+							<a href="particuliers.php">Particuliers</a>
 						</li>
 						<li class="active">
-							<a href="entreprises.html">Entreprises</a>
+							<a href="entreprises.php">Entreprises</a>
 						</li>
 						<li>
-							<a href="contact.html">Contact</a>
+							<a href="contact.php">Contact</a>
 						</li>
 					</ul>
 				</nav>
