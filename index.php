@@ -123,10 +123,9 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="owl-carousel owl-carousel-fullwidth">
-						    <div class="item"><img src="images/slide_1.jpg" alt="image"></div>
-						    <div class="item"><img src="images/slide_2.jpg" alt="image"></div>
-						    <div class="item"><img src="images/slide_3.jpg" alt="image"></div>
-						    <div class="item"><img src="images/slide_4.jpg" alt="image"></div>
+						    <div class="item"><img src="images/arbre.jpg" alt="image"></div>
+						    <div class="item"><img src="images/ciel.jpg" alt="image"></div>
+						    <div class="item"><img src="images/foret.jpg" alt="image"></div>
 							</div>
 						</div>
 					</div>

@@ -142,27 +142,12 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 									<div class="resp-tabs-container hor_1">
 										<div>
 											<div class="row">
-												<!--div class="col-md-6">
-                                                    <h2 class="h3">A quel moment se faire accompagner ?</h2>
-													<ul>
-														<li>Quand vous êtes dans une phase de changement et de questionnement</li>
-														<li>Quand vous êtes à un carrefour et que vous hésitez sur le chemin qu’il vous faut emprunter</li>
-														<li>Quand vous traversez une période difficile </li>
-														<li>Quand vous avez l’impression de ne plus avancer </li>
-														<li>Quand vous ne savez plus vers qui vous tourner</li>
-														<li>Quand vous avez l’impression de tourner en rond </li>
-													</ul>
+												<div class="col-md-6">
+                                                    <h2 class="h3">[A venir]</h2>
+
 												</div>
 
-												<div class="col-md-6">
-													<h2 class="h3">Rythme des rencontres</h2>
-													<p>de 4 à 12 séances à définir lors du premier entretien (hebdomadaire, bimensuel ou mensuel)</p>
-												</div>
 
-												<div class="col-md-6">
-													<h2 class="h3">Particularité :</h2>
-													<p>De nombreux moyens d’expression peuvent être envisagés pour que la personne accompagnée avance sur le chemin de son inspiration. Peu à peu, elle parviendra à ses rencontrer et à se révéler.</p>
-												</div-->
 											</div>
 										</div>
 										<div>
