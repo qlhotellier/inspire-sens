@@ -15,7 +15,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Light &mdash; A free Responsive HTML5 Template by FREEHTML5.CO</title>
+	<title>Inspire et Sens</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
   <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -34,6 +34,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="favicon.ico">
+    <link rel="icon" type="image/png" href="images/favicon.ico" />
 
 	<!-- Google Webfont -->
 	<link href='http://fonts.googleapis.com/css?family=Lato:400,300,700|Unica+One' rel='stylesheet' type='text/css'>
@@ -286,7 +287,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 				<div class="fh5co-spacer fh5co-spacer-md"></div>
 				<div class="row">
 					<div class="col-md-6">
-						<p class="fh5co-copyright">&copy; Light 2015. All Rights Reserved. <br>Designed by <a href="http://freehtml5.co" target="_blank">FREEHTML5.co</a> and Images by <a href="http://deathtothestockphoto.com/" target="_blank">DeathtoStock</a></p>
+                        <p class="fh5co-copyright">&copy; Inspire et Sens 2017. All Rights Reserved. <br>Designed by <a href="#" target="_blank">Yannick Bert</a></p>
 					</div>
 					<div class="col-md-6">
 						<ul class="fh5co-social">
