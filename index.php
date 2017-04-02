@@ -170,7 +170,7 @@
 				</div>
 				<!-- Testimonial -->
 
-				<div class="fh5co-spacer fh5co-spacer-lg"></div>
+
 
 
 				
@@ -181,7 +181,7 @@
 		<!-- Footer -->
 		<footer id="fh5co-footer" role="contentinfo">
 			<div class="container">
-				<div class="row">
+				<!--div class="row">
 					<div class="col-md-3 col-xs-12 fh5co-footer-widget ">
 						<img src="images/logo.png" alt="Image" class="img-responsive">
 					</div>
@@ -215,8 +215,7 @@
 						  
 						</form>
 					</div>
-				</div>
-				<div class="fh5co-spacer fh5co-spacer-md"></div>
+				</div-->
 				<div class="row">
 					<div class="col-md-6">
                         <p class="fh5co-copyright">&copy; Inspire et Sens 2017. All Rights Reserved. <br>Designed by <a href="#" target="_blank">Yannick Bert</a></p>

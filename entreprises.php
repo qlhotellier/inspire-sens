@@ -210,42 +210,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 		<!-- Footer -->
 		<footer id="fh5co-footer" role="contentinfo">
 			<div class="container">
-				<div class="row">
-					<div class="col-md-3 col-xs-12 fh5co-footer-widget ">
-						<img src="images/logo.png" alt="Image" class="img-responsive">
-					</div>
-					<div class="col-md-2 col-xs-6 fh5co-footer-widget">
-						<ul>
-							<li><a href="#">Our Team</a></li>
-							<li><a href="#">Contact Us</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">Blog</a></li>
-						</ul>
-					</div>
-					<div class="col-md-2 col-xs-6 fh5co-footer-widget">
-						<ul>
-							<li><a href="#">Our Clients</a></li>
-							<li><a href="#">Our Culture</a></li>
-							<li><a href="#">Capabilities</a></li>
-							<li><a href="#">Features</a></li>
-						</ul>
-					</div>
-				
-					<div class="col-md-5 col-xs-12 fh5co-footer-widget">
-						<div class="fh5co-section-title">
-							<h5 class="fh5co-title">Subscribe</h5>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure sint, inventore excepturi aliquid ipsam officiis!</p>
-						<form class="form-inline" id="fh5co-form-subscribe">
-						  <div class="form-group pull-left">
-						    <input type="email" class="form-control input-lg input-block" id="subscribe-email" placeholder="info@freehtml5.co">
-						  </div>
-						  <button type="submit" class="btn btn-primary btn-subscribe-send">Send</button>
-						  
-						</form>
-					</div>
-				</div>
-				<div class="fh5co-spacer fh5co-spacer-md"></div>
+
 				<div class="row">
 					<div class="col-md-6">
                         <p class="fh5co-copyright">&copy; Inspire et Sens 2017. All Rights Reserved. <br>Designed by <a href="#" target="_blank">Yannick Bert</a></p>
