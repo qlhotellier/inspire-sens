@@ -1,4 +1,4 @@
-<?php
+<!--?php
 $mail = 'nyokokoro@gmail.com'; // Déclaration de l'adresse de destination.
 if (!preg_match("#^[a-z0-9._-]+@(hotmail|live|msn).[a-z]{2,4}$#", $mail)) // On filtre les serveurs qui présentent des bogues.
 {
@@ -73,7 +73,7 @@ $message.= $passage_ligne."--".$boundary."--".$passage_ligne;*/
 mail($mail,$sujet,$message,$header);
 
 //==========
-?>
+?-->
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
